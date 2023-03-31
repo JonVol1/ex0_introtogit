@@ -1,5 +1,5 @@
-Favorite color: Tough question
-Favorite food: Tough question
-Favorite musician/band: Tough question
-Favorite movie: Tough question
+Favorite color: Tough question1
+Favorite food: Tough question2
+Favorite musician/band: Tough question3
+Favorite movie: Tough question4
 Requested grade in the course: 100
